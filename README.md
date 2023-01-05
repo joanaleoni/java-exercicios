@@ -73,3 +73,5 @@
    - Exercício 13: UsersLog
    - Exercício 14: OnlineCourses
  
+#### 17. HashMap
+   - Exercício 15: ProductsStock
