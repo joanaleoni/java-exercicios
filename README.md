@@ -18,6 +18,7 @@
    - Exercício 18: RemoveProductIf (Predicate)
    - Exercício 19: UpperCaseName (Function)
    - Exercício 20: SumPrices (Predicate as argument)
+   - Exercício 21: Fibonacci
 
 #### 3. Associação entre classes
    - Exercício 02: Worker Contracts
