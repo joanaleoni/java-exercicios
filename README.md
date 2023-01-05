@@ -17,6 +17,7 @@
    - Exercício 17: PriceUpdate (Consumer)
    - Exercício 18: RemoveProductIf (Predicate)
    - Exercício 19: UpperCaseName (Function)
+   - Exercício 20: SumPrices (Predicate as argument)
 
 #### 3. Associação entre classes
    - Exercício 02: Worker Contracts
