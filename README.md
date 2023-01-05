@@ -15,6 +15,7 @@
 #### 2. Introdução à expressões Lambda
    - Exercício 01: List of Employees
    - Exercício 17: PriceUpdate (Consumer)
+   - Exercício 18: RemoveProductIf (Predicate)
 
 #### 3. Associação entre classes
    - Exercício 02: Worker Contracts
