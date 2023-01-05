@@ -17,7 +17,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Limit of Fibonacci numbers: ");
-        long limit = sc.nextInt();
+        long limit = sc.nextLong();
         
         System.out.println();
         System.out.println("Here's your Fibonacci sequence: ");
