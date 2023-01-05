@@ -60,11 +60,13 @@
    - Exercício 10: EmployeesFile
    - Exercício 12: Products
    - Exercício 13: UsersLog
+   - Exercício 16: VoteCount
    
 #### 14. BufferedReader
    - Exercício 10: EmployeesFile
    - Exercício 12: Products
    - Exercício 13: UsersLog
+   - Exercício 16: VoteCount   
    
 #### 15. Generics
    - Exercício 12: Products
@@ -75,3 +77,6 @@
  
 #### 17. HashMap
    - Exercício 15: ProductsStock
+
+#### 18. LinkedHashMap
+   - Exercício 16: VoteCount 
