@@ -16,6 +16,7 @@
    - Exercício 01: List of Employees
    - Exercício 17: PriceUpdate (Consumer)
    - Exercício 18: RemoveProductIf (Predicate)
+   - Exercício 19: UpperCaseName (Function)
 
 #### 3. Associação entre classes
    - Exercício 02: Worker Contracts
